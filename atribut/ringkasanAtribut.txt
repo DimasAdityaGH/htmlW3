@@ -1,0 +1,10 @@
+ringkasan bab attribute
+
+Semua elemen HTML dapat memiliki atribut
+The href  atribut <a> Menentukan URL halaman link pergi ke
+The src atribut <img>  menentukan path ke gambar yang akan ditampilkan
+The width dan height atribut <img>memberikan informasi ukuran untuk gambar
+The alta tribut <img> menyediakan teks alternatif untuk gambar
+The style atribut digunakan untuk menambah gaya untuk elemen, seperti warna, font, ukuran, dan lebih
+The lang  atribut dari  <html>tag menyatakan bahasa halaman Web
+The title atribut mendefinisikan beberapa informasi tambahan tentang elemen
