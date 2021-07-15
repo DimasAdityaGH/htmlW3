@@ -1,0 +1,6 @@
+gunakan style atribut untuk menata elemen html
+gunakan background-color untuk warna teks
+gunakan color untuk warna teks
+gunakan font-family untuk font teks
+gunakan font-size untuk ukuran teks
+gunakan text align untuk perataan teks
