@@ -1,0 +1,6 @@
+gunakan <a> elemen untuk menentukan tautan
+gunakan href atribut untuk menentukan alamat tautan
+gunakan target atribut untuk menentukan tempat membuka dokumen tertaut
+gunakan <img> elemen(didalam <a>) untuk menggunakan gambar sebagia tautan
+gunakan mailto: skema didalam href attribut untuk membuat tautan yang membuka program email pengguna
+
