@@ -1,0 +1,12 @@
+RINGKASAN BAB
+
+gunakan style attribute html untuk penataan sebaris
+gunakan <style> element untuk mendefinisikan css internal
+gunakan <link> element html untuk merujuk ke file css eksternal
+gunakan <head> element html untuk menyimpan elemen <style> dan <link>
+gunakan color untuk properti css untuk warna teks
+gunakan font-familiy properti css untuk font teks
+gunakan font-size properti css untuk ukuran teks
+gunakan border properti css untuk perbatasan
+gunakan padding properti css untuk ruang didalam perbatasan
+gunakan margini properti css untuk ruang diluar perbatasan
